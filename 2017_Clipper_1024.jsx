@@ -1,7 +1,6 @@
-﻿/* 	guarda_k.js  /	Guión para Photoshop
+﻿/* 	Basado en guarda_k.js  /	Guión para Photoshop
 	========================================
-	Guarda el documento en .jpg añadiendo un prefijo
-	y un sufijo que indica el tamaño de impresión en centímetros
+	Guarda el documento en .jpg, caldad 6, añadiendo un prefijo
 	Soporte: pepesaura@gmail.com
 */
 //	Variables a personalizar *****************************************
